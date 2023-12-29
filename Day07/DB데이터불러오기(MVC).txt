@@ -1,0 +1,19 @@
+Model		데이터의 형태 (data type, 자료형)를 정의 (DDL)
+		데이터 모델링
+
+		create table ( ... )
+		DB 자료형
+		DTO 작성
+
+Controller	흐름을 제어
+		함수
+		DB에 연결 (Connection)
+		연결 상태(Statement) 체크 및 쿼리문(DML) 수행
+		결과 (ResultSet)
+		Relation <=> Object
+		위에서 준비한 모델에 맞게 처리
+
+View		데이터가 준비되었다면
+		화면에 HTML/CSS 등으로 표현하면 된다
+
+
